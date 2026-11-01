@@ -2,6 +2,10 @@
 
 当插入上网设备和网线连接时，指定走哪个设备上网
 
+**[直接下载 EXE（无需编译）](https://github.com/hanxi-p/network-priority-adjuster/releases/download/v1.0.0/NetworkPriority.exe)**
+
+下载后双击运行，允许管理员权限，即可自动打开网页控制界面。
+
 Windows 本机网页工具：双击 EXE 打开浏览器，读取当前网络接口，拖动排序后保存。越靠上，优先级越高。
 
 ## 使用
