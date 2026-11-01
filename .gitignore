@@ -1,0 +1,11 @@
+# Local interface data, preview sessions and generated QA artifacts
+qa-state.json
+qa-frontend.js
+*session.json
+界面预览.png
+验证记录.md
+*.log
+*.pdb
+
+# Build artifacts are published separately as a GitHub Release
+dist/

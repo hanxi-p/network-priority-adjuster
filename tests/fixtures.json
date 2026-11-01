@@ -1,0 +1,31 @@
+{
+  "state": {
+    "admin": false,
+    "adapters": [
+      {
+        "id": 10,
+        "guid": "{00000000-0000-0000-0000-000000000010}",
+        "families": [
+          { "family": "IPv4", "metric": 25, "automatic": true, "routeMetric": 10 },
+          { "family": "IPv6", "metric": 25, "automatic": true, "routeMetric": null }
+        ]
+      },
+      {
+        "id": 20,
+        "guid": "{00000000-0000-0000-0000-000000000020}",
+        "families": [
+          { "family": "IPv4", "metric": 50, "automatic": true, "routeMetric": 50 },
+          { "family": "IPv6", "metric": 50, "automatic": true, "routeMetric": null }
+        ]
+      },
+      {
+        "id": 30,
+        "guid": "{00000000-0000-0000-0000-000000000030}",
+        "families": [
+          { "family": "IPv4", "metric": 1, "automatic": false, "routeMetric": 1 },
+          { "family": "IPv6", "metric": 1, "automatic": false, "routeMetric": null }
+        ]
+      }
+    ]
+  }
+}
